@@ -4,11 +4,11 @@
 ## Order of Operations Practice
 **Instructions:** Evaluate the following expressions.  You can answer either in this README file, in your own notebook, or on a separate piece of paper.
 ### Part 1
-a. 3 * (7 - 4) + 6 / 2
+a. 3 * (7 - 4) + 6 / 2  12
 
-b. ((12 / 3) * (7 - 5) + 4) / 2
+b. ((12 / 3) * (7 - 5) + 4) / 2  6
 
-c. (5 + 2) * (8 - 3) % 2
+c. (5 + 2) * (8 - 3) % 2  
 
 d. (15 % 4) + (5 / 2) - (3 * 2)
 
@@ -52,7 +52,7 @@ Make a program that creates two variables: an int and a double.  Follow these in
 3. Run your program and observe the result.
 4. Create a variable of type `int` and store a double value into it.
 5. Print out the value of the variable.
-6. Run myour program and observe the result.
+6. Run your program and observe the result.
 
 Is it possible to store a double into an int?  Is it possible to store an int into a double?  Explain.
 
